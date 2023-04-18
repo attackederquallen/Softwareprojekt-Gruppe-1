@@ -7,6 +7,6 @@ Dies ist das sogenannte Main Hub des Softwareprojektes [Nope] der Gruppe 1, wo m
 ### KI Spieler Repos Verlinkung:
 [Nico Hübner](https://github.com/N1co420/NopeKiSpieler).
 
-[Mathis Grübner](https://github.com/MaGrabert/NopeClient).
+[Mathis Grabert](https://github.com/MaGrabert/NopeClient).
 
 
