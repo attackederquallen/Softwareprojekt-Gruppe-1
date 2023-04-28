@@ -12,4 +12,7 @@ Die jeweiligen JSON Dateiformate sind einsehbar, welche die Variablen Struktur f
 
 [Mathis Grabert](https://github.com/MaGrabert/NopeClient).
 
+[Marcel Bergen](https://github.com/Marslel/SoftwareProjekt).
+
+[Jan Rau](https://github.com/jrau1801/Nope-Client).
 
