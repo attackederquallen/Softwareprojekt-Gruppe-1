@@ -20,4 +20,6 @@ Die jeweiligen JSON Dateiformate sind einsehbar, welche die Variablen Struktur f
 
 [Lena Jaksties](https://github.com/LenaJaksties/NopeAiClient).
 
-[Lisa Jaksties](https://github.com/LisaJaksties/nope).   
+[Lisa Jaksties](https://github.com/LisaJaksties/nope).  
+
+[Vivien Traue](https://github.com/vtraue/nope-ki).
