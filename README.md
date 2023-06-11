@@ -23,3 +23,6 @@ Die jeweiligen JSON Dateiformate sind einsehbar, welche die Variablen Struktur f
 [Lisa Jaksties](https://github.com/LisaJaksties/nope).  
 
 [Vivien Traue](https://github.com/vtraue/nope-ki).
+
+[Aleksei Kurz](https://github.com/alekseikurz/nope_ss_23).
+
